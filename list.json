@@ -4,7 +4,7 @@
         "author": "Jamie Smith",
         "description": "Play nature and calm sounds for sleep or background noise",
         "icon": "https://raw.githubusercontent.com/jsmithdev/hubble-sleep-sounds/main/resources/icon.svg?raw=true",
-        "repo": "https://raw.githubusercontent.com/jsmithdev/hubble-sleep-sounds/main/build/lit.js?raw=true",
+        "repo": "https://unpkg.com/hubble-sleep-sounds@1.0.1/build/lit.js",
         "site": "https://github.com/jsmithdev/hubble-sleep-sounds"
     }
 ]
